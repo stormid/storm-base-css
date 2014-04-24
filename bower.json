@@ -1,0 +1,17 @@
+{
+  "name": "storm-base-css",
+  "version": "0.1.1",
+  "homepage": "https://github.com/stormid/storm-base-css",
+  "authors": [
+    "Ryan Smith <ryan.smith@stormid.com>"
+  ],
+  "description": "The Storm ID Base CSS",
+  "main": "_base.scss",
+  "keywords": [
+    "storm",
+    "base",
+    "reset",
+    "css"
+  ],
+  "license": "MIT"
+}
