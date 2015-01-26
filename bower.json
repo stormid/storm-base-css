@@ -1,8 +1,9 @@
 {
   "name": "storm-base-css",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/stormid/storm-base-css",
   "authors": [
+    "Andy Lobban <andy@stormid.com>", 
     "Ryan Smith <ryan.smith@stormid.com>"
   ],
   "description": "The Storm ID Base CSS",
@@ -13,5 +14,8 @@
     "reset",
     "css"
   ],
-  "license": "MIT"
+  "license": "MIT", 
+  "ignore": [ 
+    "README.md" 
+  ]
 }
