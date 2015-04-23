@@ -1,6 +1,6 @@
 {
     "name": "storm-base-css",
-    "version": "0.2.0",
+    "version": "0.2.3",
     "description": "The Storm ID Base CSS",
     "keywords": [
         "storm",
@@ -16,7 +16,8 @@
         "url": "http://stormid.com"
     },
     "contributors": [
-		"Ryan Smith <ryan@stormid.com>"
+		"Ryan Smith <ryan@stormid.com>",
+		"Andy Lobban <andy@stormid.com>"
 	],
     "repository": {
         "type": "git",
